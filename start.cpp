@@ -183,27 +183,27 @@ void operation()
   else if(arrowNumber == 4)
   {
     system("xdotool getactivewindow windowminimize");
-    system("g++ snakeGame.cpp -o snakeGame -lglut -lGL -lGLU && ./snakeGame");
+    system("g++ SnakeGame/snakeGame.cpp -o snakeGame -lglut -lGL -lGLU && ./snakeGame");
   }
   else if(arrowNumber == 3)
   { 
     system("xdotool getactivewindow windowminimize");
-    system("g++ aimGame.cpp -o aimGame -lglut -lGL -lGLU && ./aimGame");
+    system("g++ AimGame/aimGame.cpp -o aimGame -lglut -lGL -lGLU && ./aimGame");
   }
   else if(arrowNumber == 2)
   {
     system("xdotool getactivewindow windowminimize");
-    system("g++ towerOfHanoi.cpp -o towerOfHanoi -lglut -lGL -lGLU && ./towerOfHanoi");
+    system("g++ TowerOfHanoiGame/towerOfHanoi.cpp -o towerOfHanoi -lglut -lGL -lGLU && ./towerOfHanoi");
   }
   else if(arrowNumber == 1)
   {
     system("xdotool getactivewindow windowminimize");
-    system("g++ dropDown.cpp -o dropDown -lglut -lGL -lGLU && ./dropDown");
+    system("g++ DropDownGame/dropDown.cpp -o dropDown -lglut -lGL -lGLU && ./dropDown");
   }
   else if(arrowNumber == 0)
   {
     system("xdotool getactivewindow windowminimize");
-    system("g++ masterMind.cpp -o masterMind -lglut -lGL -lGLU && ./masterMind");
+    system("g++ MasterMindGame/masterMind.cpp -o masterMind -lglut -lGL -lGLU && ./masterMind");
   }
 }
 
