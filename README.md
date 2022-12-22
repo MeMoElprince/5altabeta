@@ -1,2 +1,2 @@
 # 5altabeta
-Collection of Games using OpenGL using Glut library
+Collection of Games using OpenGL and Glut library
