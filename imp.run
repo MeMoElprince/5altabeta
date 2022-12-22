@@ -3,6 +3,6 @@ To run write the following command :-
 
 g++ test.cpp -o name -lglut -lGLU -lGL
 
-,/name
+./name
 
 
