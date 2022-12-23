@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1671420334 source:e:\projects\dropdowngame\main.cpp
+	<bits/stdc++.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<windows.h>
+	<mmsystem.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1426342528 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426342528 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1671421050 source:e:\projects\mygames\dropdowngame\main.cpp
+	<bits/stdc++.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<windows.h>
+	<mmsystem.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
