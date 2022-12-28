@@ -20,26 +20,26 @@ A Collection of Games made by OpenGl Library using C++:
 <table style="margin-left: auto;zmargin-right: auto;text-align: center;">
     <thead>
         <tr>
-            <th style="text-align: center;" colspan=3><h1>Collaborators</h1></th>
+            <th style="text-align: center;" colspan=3><h3>Collaborators</h3></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><h2><a href="https://github.com/Ahmadabdelwhab">Ahmad Abdelwhab</a></h2></td>
-            <td><h2><a href="https://github.com/MeMoElprince">Mustafa Elsharawy</a></h2></td>
-            <td><h2><a href="https://github.com/IMohammedNasr">Mohammed Nasr</a></h2></td>
+            <td><h4><a href="https://github.com/Ahmadabdelwhab">Ahmad Abdelwhab</a></h4></td>
+            <td><h4><a href="https://github.com/MeMoElprince">Mustafa Elsharawy</a></h4></td>
+            <td><h4><a href="https://github.com/IMohammedNasr">Mohammed Nasr</a></h4></td>
         </tr>
         <tr>
-            <td><h2><a href="https://github.com/MahmoudElsayedJrr">Mahmoud Elsayed</a></h2></td>
-            <td><h2><a href="https://github.com/abo-elenen">Mahmoud Abo Elenen</a></h2></td>
-            <td><h2><a href="https://github.com/MoemenAdam">Momen Adam</a></h2></td>
+            <td><h4><a href="https://github.com/MahmoudElsayedJrr">Mahmoud Elsayed</a></h4></td>
+            <td><h4><a href="https://github.com/abo-elenen">Mahmoud Abo Elenen</a></h4></td>
+            <td><h4><a href="https://github.com/MoemenAdam">Momen Adam</a></h4></td>
         </tr>
         <tr>
-            <td><h2><a href="https://github.com/EmanMohamed36">Eman Mohammed</a></h2></td>
-            <td><h2><a href="https://github.com/MiinaMagdy">Mina Magdy</a></h2></td>
-            <td><h2><a href="https://github.com/PeterTorki">Peter Joseph Torki</a></h2></td>
+            <td><h4><a href="https://github.com/EmanMohamed36">Eman Mohammed</a></h4></td>
+            <td><h4><a href="https://github.com/MiinaMagdy">Mina Magdy</a></h4></td>
+            <td><h4><a href="https://github.com/PeterTorki">Peter Joseph Torki</a></h4></td>
         </tr>
         <tr>
-            <th style="text-align: center;" colspan=3><h1>Made With Love & Enjoy ❤️</h1></th>
+            <th style="text-align: center;" colspan=3><h3>Made With Love & Enjoy ❤️</h3></th>
         </tr>
 </table>
