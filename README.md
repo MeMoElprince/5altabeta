@@ -5,7 +5,7 @@ A Collection of Games made by OpenGl Library using C++:
   * Drop Down Boxes
   * Master Mind
   * Snake 
-  * Tower Of HanoiGame 
+  * Tower Of Hanoi Game 
 ---
 
 
