@@ -7,11 +7,11 @@ A Collection of Games made by OpenGl Library using C++:
   * Snake 
   * Tower Of HanoiGame 
 ---
+<html>
 <div align="center">
   <video src="https://user-images.githubusercontent.com/73145539/209887585-1c647aec-e74f-49f2-8092-932498442c87.mp4" width=400/>
 <div/>
----
- 
+</html>
 # Play on Windows
     git clone --single-branch --branch windows https://github.com/MeMoElprince/5altabeta
 
