@@ -6,6 +6,9 @@ A Collection of Games made by OpenGl Library using C++:
   * Master Mind
   * Snake 
   * Tower Of HanoiGame 
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/73145539/209887585-1c647aec-e74f-49f2-8092-932498442c87.mp4" width=400/>
+<div/>
 ---
 # Play on Windows
     git clone --single-branch --branch windows https://github.com/MeMoElprince/5altabeta
@@ -43,6 +46,4 @@ A Collection of Games made by OpenGl Library using C++:
             <th style="text-align: center;" colspan=3><h3>Made With Love & Enjoy ❤️</h3></th>
         </tr>
 </table>
-
-https://user-images.githubusercontent.com/73145539/209887585-1c647aec-e74f-49f2-8092-932498442c87.mp4
 
